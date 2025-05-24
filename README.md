@@ -20,7 +20,7 @@
 📈 I’m actively seeking **internships**, **freelance projects**, and opportunities to grow in the tech industry.
 
 📫 Let's connect and grow together:
-- 📧 Email: [Email Me](mailto:aqibgithub@gmail.com)
+- 📧 Email:(mailto:aqibgithub@gmail.com)
 - 📱 Phone:[Call Me](tel:+923284169020)
 - 💼 LinkedIn: [linkedin.com/in/aqib-ali](https://linkedin.com/in/aqib-ali)
 - 🌐 Portfolio: https://aqibdev05.netlify.app
