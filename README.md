@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manan Aslam!
+# 👋 Hi there, I'm Aqib Ali!
 
 🎓 I'm a passionate BSIT student based in Lahore, Pakistan, currently diving deep into web development and full-stack technologies.
 
@@ -20,9 +20,10 @@
 📈 I’m actively seeking **internships**, **freelance projects**, and opportunities to grow in the tech industry.
 
 📫 Let's connect and grow together:
-- 📧 Email: mananaslamdev@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/mananaslamdev](https://linkedin.com/in/mananaslamdev)
-- 🌐 Portfolio: https://mananaslamdev.vercel.app
+- 📧 Email: [Email Me](mailto:aqibgithub@gmail.com)
+- 📱 Phone:[Call Me](tel:+923284169020)
+- 💼 LinkedIn: [linkedin.com/in/aqib-ali](https://linkedin.com/in/aqib-ali)
+- 🌐 Portfolio: https://aqibdev05.netlify.app
 
 ---
 
