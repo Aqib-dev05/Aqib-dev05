@@ -21,7 +21,7 @@
 
 📫 Let's connect and grow together:
 - 📧 Email:aqibgithub@gmail.com
-- 📱 Phone:tel:+923284169020
+- 📱 Phone:[+92328169020](tel:+923284169020)
 - 💼 LinkedIn: [linkedin.com/in/aqib-ali](https://linkedin.com/in/aqib-ali)
 - 🌐 Portfolio: https://aqibdev05.netlify.app
 
