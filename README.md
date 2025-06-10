@@ -21,7 +21,7 @@
 - 📧 Email:aqibgithub@gmail.com
 - 📱 Phone: [+923284169020](tel:+923284169020)
 - 💼 LinkedIn: [https://www.linkedin.com/in/aqib-ali-37a6a3357/](https://www.linkedin.com/in/aqib-ali-37a6a3357/)
-- 🌐 Portfolio: https://aqibdev05.netlify.app
+- 🌐 Portfolio: https://aqib-dev05.vercel.app
 
 ---
 # 📊 GitHub Stats:
