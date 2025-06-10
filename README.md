@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aqib Ali!
 
-🎓 I'm a passionate BSIT student based in Lahore, Pakistan, currently diving deep into web development and full-stack technologies.
+🎓 I'm a passionate BSIT student based in Lahore, Pakistan, currently diving deep into web development and full-stack technologies.<br><br>💻 I love building modern, user-friendly web applications using HTML, CSS, JavaScript, and React JS. Currently, I'm learning React Hooks, state management, and improving my UI/UX skills.<br><br>🚀 My goal is to become a proficient full-stack developer and eventually launch my own tech startup someday!
 
 💻 I love building modern, user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and **React JS**. Currently, I'm learning **React Hooks**, **state management**, and improving my **UI/UX** skills.
 
