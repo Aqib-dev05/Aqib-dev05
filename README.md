@@ -1,27 +1,42 @@
-# 👋 Hi there, I'm Aqib Ali!
+# 👋 Hey there! 👨‍💻
 
-🎓 I'm a passionate BSIT student based in Lahore, Pakistan, currently diving deep into web development and full-stack technologies.<br><br>💻 I love building modern, user-friendly web applications using HTML, CSS, JavaScript, and React JS. Currently, I'm learning React Hooks, state management, and improving my UI/UX skills.<br><br>🚀 My goal is to become a proficient full-stack developer and eventually launch my own tech startup someday!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=30&duration=2000&pause=1000&color=09F6F7&center=true&width=435&lines=I'm+Aqib+Ali;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-💻 I love building modern, user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and **React JS**. Currently, I'm learning **React Hooks**, **state management**, and improving my **UI/UX** skills.
+---
 
-🚀 My goal is to become a proficient full-stack developer and eventually launch my own tech startup someday!
+## 🚀 About Me
 
-🌱 Currently exploring:
-- Advanced React concepts (Hooks, Context API, Routing)
-- Backend development (Node.js & Express)
-- Databases (SQL & MongoDB)
-- SEO and performance optimization
+- 💻 Passionate about building fullstack apps with **React**, **Node.js**, **TypeScript**, and **MongoDB**
+- 🧠 Constantly learning & sharing what I learn
+- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
+
+---
+
+
+## 🌐 Portfolio
+
+Check out my personal portfolio: [aqib-dev05-portfolio.vercel.app](https://aqib-dev05-portfolio.vercel.app/)
+
+
+---
+
+## 🪪 My Resume
+[![Download CV](https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ali-maqsood1/ali-maqsood1/raw/main/resume.pdf)
+
+---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2313aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Framer Motion](https://img.shields.io/badge/framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white)  ![DSA](https://img.shields.io/badge/DSA-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-09F6F7?style=for-the-badge&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 📈 I’m actively seeking **internships**, **freelance projects**, and opportunities to grow in the tech industry.
 
 📫 Let's connect and grow together:
-- 📧 Email:aqibgithub@gmail.com
+- 📧 Email: [m.aqibali3040@gmail.com](mailto:m.aqibali3040@gmail.com)
 - 📱 Phone: [+923284169020](tel:+923284169020)
 - 💼 LinkedIn: [https://www.linkedin.com/in/aqib-ali-37a6a3357/](https://www.linkedin.com/in/aqib-ali-37a6a3357/)
-- 🌐 Portfolio: https://aqib-dev05.vercel.app
+
 
 ---
 # 📊 GitHub Stats:
