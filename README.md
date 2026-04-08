@@ -23,7 +23,7 @@ Check out my personal portfolio: [aqib-dev05-portfolio.vercel.app](https://aqib-
 ---
 
 ## 🪪 My Resume
-[![Download CV](https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Aqib-dev05/Aqib-dev05/raw/main/resume.pdf)
+[![View Resume](https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Aqib-dev05/Aqib-dev05/raw/main/resume.pdf)
 
 ---
 
