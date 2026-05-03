@@ -65,23 +65,23 @@ I’ve worked across the full stack, but I specialize in:
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-02781E?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F5C137?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-015784?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-D4A809?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-B5B504?style=for-the-badge&logo=mysql)
 
 ---
 
 ### ⚡ Tools, Cloud & Performance
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+![Git](https://img.shields.io/badge/Git-A090C2?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-F2AC37?style=for-the-badge&logo=postman)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-7448C5?style=for-the-badge&logo=cloudinary)
+![Redis](https://img.shields.io/badge/Redis-DA0031?style=for-the-badge&logo=redis)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
