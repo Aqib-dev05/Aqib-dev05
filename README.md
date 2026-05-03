@@ -47,8 +47,6 @@ I’ve worked across the full stack, but I specialize in:
 - ⚡ **Performance optimization (caching, efficient queries)**
 - 🧩 **Clean, maintainable system structure**
 
-Currently, I’m developing a **full MERN E-commerce platform**, solving problems like filtering, pagination, auth, and production deployment challenges.
-
 ---
 
 ## 🚀 Tech Stack
@@ -100,7 +98,7 @@ Currently, I’m developing a **full MERN E-commerce platform**, solving problem
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Aqib-dev05&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.herokuapp.app/api?username=Aqib-dev05&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqib-dev05&theme=tokyonight" />
 </p>
