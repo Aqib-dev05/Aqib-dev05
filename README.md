@@ -10,7 +10,7 @@
 
 ## 📬 Contact & Links
 
-- 🌐 Portfolio: https://aqib-dev05-portfolio.vercel.app/
+- 🌐 Portfolio: https://aqib-dev05.vercel.app/
 - 📧 Email: [m.aqibali3040@gmail.com](mailto:m.aqibali3040@gmail.com)
 - 📱 Phone: [+92 328 4169020](tel:+923284169020)
 - 💼 LinkedIn: https://www.linkedin.com/in/aqib-ali-37a6a3357/
