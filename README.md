@@ -58,14 +58,14 @@ I’ve worked across the full stack, but I specialize in:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F5D142?style=for-the-badge&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer)
 
 ---
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-02781E?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
@@ -73,7 +73,7 @@ I’ve worked across the full stack, but I specialize in:
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-015784?style=for-the-badge&logo=mysql)
 
 ---
 
