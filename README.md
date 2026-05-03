@@ -98,8 +98,7 @@ I’ve worked across the full stack, but I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.herokuapp.app/api?username=Aqib-dev05&show_icons=true&theme=tokyonight" />
-  <br>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqib-dev05&theme=tokyonight" />
 </p>
 
