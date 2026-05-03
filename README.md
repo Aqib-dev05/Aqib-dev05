@@ -8,26 +8,15 @@
 
 ---
 
-<div align="center">
+## 📬 Contact & Links
 
-  <a href="https://aqib-dev05-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+- 🌐 Portfolio: https://aqib-dev05-portfolio.vercel.app/
+- 📧 Email: [m.aqibali3040@gmail.com](mailto:m.aqibali3040@gmail.com)
+- 📱 Phone: [+92 328 4169020](tel:+923284169020)
+- 💼 LinkedIn: https://www.linkedin.com/in/aqib-ali-37a6a3357/
 
-  <a href="mailto:m.aqibali3040@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="tel:+923284169020">
-    <img src="https://img.shields.io/badge/📱 Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/aqib-ali-37a6a3357/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</div>
-<hr>
+---
 
 ## 📄 Resume:
 
